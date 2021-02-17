@@ -1,0 +1,19 @@
+
+# TEST DE VELOCIDAD
+
+0 7,12,17 * * * root speedtest-cli > /root/speed.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
